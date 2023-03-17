@@ -2,7 +2,7 @@ package questoes;
 
 import java.util.Scanner;
 
-public class questao3Java {
+public class TresJava {
 
     public static void main(String[] args) throws Exception {
 

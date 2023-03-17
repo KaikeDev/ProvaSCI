@@ -2,7 +2,7 @@ package questoes;
 
 import java.util.Scanner;
 
-public class questao5Java {
+public class CincoJava {
     public static void main(String[] args) throws Exception {
 
         // criando a classe scanner para a inserções de valores

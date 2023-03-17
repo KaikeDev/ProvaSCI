@@ -2,7 +2,7 @@ package questoes;
 
 import java.util.Scanner;
 
-public class questao4Java {
+public class QuatroJava {
 
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);

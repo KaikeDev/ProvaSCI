@@ -2,7 +2,7 @@ package questoes;
 
 import java.util.Scanner;
 
-public class questao2Java {
+public class DoisJava {
     public static void main(String[] args) throws Exception {
 
         // criando o scanner para a inserções de valores

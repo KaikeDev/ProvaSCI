@@ -3,7 +3,7 @@ package questoes;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class questao1Java {
+public class UmJava {
 
     public static void main(String[] args) throws Exception {
 
